@@ -63,5 +63,5 @@ translator-project/
 
 ---
 ### Contributors
-- **Your Name** (subashb0707@gmail.com)
+- **Subash** (subashb0707@gmail.com)
 
